@@ -1,0 +1,12 @@
+{
+  "name": "TargetSis_Desafio_Dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "desafio_Q3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node desafio_Q3.js"
+  },
+  "author": "Victória Belo",
+  "license": "ISC"
+}
